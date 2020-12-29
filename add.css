@@ -1,0 +1,28 @@
+#ps{
+    font-style: oblique;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #004;
+}
+#PO{
+    position: fixed;
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    border: 5px;
+    
+    
+    
+    left: 400px;
+    /*right:50% ;*/
+    top: 120px;
+    
+
+}
+#po{
+    position: relative;
+    width: 500px;
+    height: 105px;
+    
+    /*background-color: black;*/
+}
